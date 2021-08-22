@@ -28,7 +28,7 @@ By default, the Make rules should compile and link with ‘<samp>-g</samp>’, s
 
 </dd>
 
-<dt>‘<samp>install</samp>’</dt>
+### `install`
 
 <dd>
 
